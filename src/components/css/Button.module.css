@@ -1,0 +1,12 @@
+.button {
+  padding: 10px;
+  background-color: var(--dark-style-grey);
+  color: var(--white);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: var(--tomato);
+}
